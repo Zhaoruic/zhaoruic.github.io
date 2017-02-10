@@ -49,6 +49,8 @@ body{
     height:832px;
     margin: 0 auto;
     background: url("../image/banner.png") no-repeat;
+     background-size: cover;
+    background-position: center;
 }
 .banner .box{
     display: block;
